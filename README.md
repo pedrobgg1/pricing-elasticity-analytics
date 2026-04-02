@@ -1,4 +1,4 @@
-# Automação de Pricing: Simulando o Impacto de Aumentos nos Preços
+# Data Intelligence aplicado a Pricing: Elasticidade-Preço e Clusterização
 
 O objetivo deste projeto é automatizar uma das etapas mais cruciais na tomada de decisão da manutenção de preço de produtos, **o cálculo da elasticidade-preço da demanda**. Este processo é essencial para entender o quão disposta sua base de clientes está a aceitar váriações nos preços. A automatização dessa etapa garante que o foco da equipe se volte em especial para **estratégia de mercado** e **percepção de valor**.
 
